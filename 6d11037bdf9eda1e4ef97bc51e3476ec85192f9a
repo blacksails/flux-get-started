@@ -1,0 +1,1 @@
+{"jobID":"b2036a5e-371b-69e9-5d3c-12c567380fb6","spec":{"type":"policy","cause":{"Message":"","User":"Benjamin Nørgaard \u003cb@noergaard.dk\u003e"},"spec":{"demo:deployment/podinfo":{"add":{"tag_all":"glob:1.4.*"},"remove":{}}}},"result":null}
